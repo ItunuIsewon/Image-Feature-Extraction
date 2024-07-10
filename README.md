@@ -5,7 +5,7 @@ This repository contains codes and references to datasets for investigating the 
 The study was carried out in a Python environment, as a result, the following are recommended to replicate the study:
 + Python 3.11 or above
 + Tensorflow 2.10 or above
-+ sklearn or above
++ sklearn 1.5.1 or above
 + lightgbm 4.4.0
 + numpy  1.23.4
 + pandas 1.1.5
